@@ -37,7 +37,8 @@ def _binary_search(mylist, key, left, right):
 	Returns:
 	  index of key in mylist, or -1 if not present.
 	"""
-	### TODO
+	### 
+	## I JUST WANT TO MAKE SOME CHANGE HERE! 
 	###
 
 def test_binary_search():
